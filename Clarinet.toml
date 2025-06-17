@@ -1,7 +1,7 @@
 [project]
 name = "SagaSpell"
-authors = []
-description = ""
+authors = ["teefeh-07"]
+description = "A magical spell casting smart contract on Stacks blockchain where users can create, own, and cast spells with different powers and rarities"
 telemetry = true
 requirements = []
 cache_dir = "/home/runner/Sagaspell/SagaSpell/./.requirements"
